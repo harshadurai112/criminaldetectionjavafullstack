@@ -2,9 +2,6 @@
 
 This is a full-stack Criminal Detection System using **face recognition technology**. The system can detect and recognize known criminals using image data and a trained model.
 
-> 🛠️ Forked from the original open-source project by [@prasadus92](https://github.com/prasadus92/Face-Recognition), this version has been customized and extended for educational purposes.
-
----
 
 ## 🔍 Features
 
